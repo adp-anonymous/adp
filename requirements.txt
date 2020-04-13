@@ -1,0 +1,10 @@
+python>=3.6
+jax
+absl-py
+numpy
+scipy
+seaborn
+sklearn
+tensorflow>=1.14
+tensorflow-privacy
+# https://github.com/tensorflow/privacy
