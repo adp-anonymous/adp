@@ -1,6 +1,6 @@
 # Description
 
-This directory contains reference code for anonymous submission to ICML 2020:
+This directory contains reference code for anonymous submission.
 
 Improving Differentially Private Models with Active Learning
 
